@@ -73,7 +73,7 @@
 
 
 ### Fabricating chamfer rails
-Full tutorial on milling Chamfer rails [here](https://github.com/fellesverkstedet/fabricatable-machines/blob/master/chamferrail/README.md)
+Full tutorial on milling Chamfer rails [here](https://github.com/fellesverkstedet/fabricatable-machines-archive/blob/master/chamferrail/README.md)
 
 ![Engraving source URL](./img/engraving-docu-link.jpg)
 *Engraving source URL*
